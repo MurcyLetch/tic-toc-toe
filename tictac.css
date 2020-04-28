@@ -1,0 +1,27 @@
+td{
+    width:100px;
+    height:100px;
+}
+.vertical{
+    border-left: 8px solid black;
+    border-right: 8px solid black;
+}
+.down{
+    border-top: 8px solid black;
+    border-bottom: 8px solid black;
+}
+table{
+    margin:auto;
+}
+h1{
+    text-align: center;
+    color:black;
+}
+img{
+    width:30%;
+    margin:1.33%;
+}
+body{
+    background:url('jude-infantini-mI-QcAP95Ok-unsplash.jpg') no-repeat;
+    background-size:cover;
+}
